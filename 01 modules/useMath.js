@@ -1,0 +1,5 @@
+const Path = require("path")
+const operation = require('./math.js')
+console.log(operation.add(4,10))
+console.log(__dirname)
+console.log(__filename)
