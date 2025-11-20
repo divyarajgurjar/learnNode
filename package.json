@@ -1,0 +1,20 @@
+{
+  "name": "learnnode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyarajgurjar/learnNode.git"
+  },
+  "author": "Divya Raj Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divyarajgurjar/learnNode/issues"
+  },
+  "homepage": "https://github.com/divyarajgurjar/learnNode#readme",
+  "description": ""
+}
